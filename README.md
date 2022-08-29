@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yuriy-gubin-9557bb230/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><\n>
-    <img src="https://komarev.com/ghpvc/?username=YuriyGubin&style=flat-square&color=blue" alt=""/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=YuriyGubin&style=flat-square&color=blue" alt=""/>
