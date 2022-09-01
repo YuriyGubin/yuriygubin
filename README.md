@@ -21,3 +21,11 @@
 I am new to iOS development :apple:
 Learining with <a href="https://swiftbook.org/">swiftbook.org</a>
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
+</div>
