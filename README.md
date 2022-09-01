@@ -34,5 +34,7 @@ Learining with <a href="https://swiftbook.org/">swiftbook.org</a>
 
 ### :fire: My Stats :
 
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/yuriygubin)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuriygubin&theme=dark&background=000000)](https://git.io/streak-stats)
 
