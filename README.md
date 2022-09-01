@@ -29,3 +29,10 @@ Learining with <a href="https://swiftbook.org/">swiftbook.org</a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuriygubin&theme=dark&background=000000)](https://git.io/streak-stats)
+
