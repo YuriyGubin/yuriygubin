@@ -17,13 +17,13 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: aboutMe :
 I am new to iOS development :apple:
 Learining with <a href="https://swiftbook.org/">swiftbook.org</a>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: languagesAndTools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
@@ -32,9 +32,13 @@ Learining with <a href="https://swiftbook.org/">swiftbook.org</a>
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats on codeWars:
 
 [![codewars](https://www.codewars.com/users/YuriyGubin/badges/large)](https://www.codewars.com/users/YuriyGubin)
+
+---
+
+### :fire: My Stats on gitHub:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuriygubin&theme=dark&background=000000)](https://git.io/streak-stats)
 
