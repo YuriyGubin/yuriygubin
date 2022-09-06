@@ -26,7 +26,7 @@ Learining with <a href="https://swiftbook.org/">swiftbook.org</a>
 
 ---
 
-### :fire: myStatsOnCodeWars:
+### :trophy: myStatsOnCodeWars:
 
 [![codewars](https://www.codewars.com/users/YuriyGubin/badges/large)](https://www.codewars.com/users/YuriyGubin)
 
@@ -38,7 +38,7 @@ Learining with <a href="https://swiftbook.org/">swiftbook.org</a>
 
 ---
 
-### :contacts: myContacts:
+### :pager: myContacts:
 <div id="badges"> 
   <a href="https://www.linkedin.com/in/yuriy-gubin-9557bb230/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
