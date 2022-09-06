@@ -38,12 +38,13 @@ Learining with <a href="https://swiftbook.org/">swiftbook.org</a>
 
 ---
 
-### :pager: myContacts:
+### :mailbox_with_mail: myContacts:
 <div id="badges"> 
   <a href="https://www.linkedin.com/in/yuriy-gubin-9557bb230/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<iosdevelop.2022@gmail.com>
 
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=YuriyGubin&style=flat-square&color=blue" alt=""/>
